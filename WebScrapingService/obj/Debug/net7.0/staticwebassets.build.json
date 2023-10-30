@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xFYkr8BXi0c8LOYoAk/SCpJVcZ7pcXwwZQIKAuIbbEg=",
+  "Source": "WebScrapingService",
+  "BasePath": "_content/WebScrapingService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
